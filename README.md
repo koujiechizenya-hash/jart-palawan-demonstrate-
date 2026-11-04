@@ -341,6 +341,24 @@ def verify_wrw_seal(content, seal_hash, chain_id):
 
 # Usage for AI Agent
 # result = verify_wrw_seal("My art", "abc123...", "deeva_mainnet")
+
+### Why Now?
+
+**1. In the age of AI forgery, only Bitcoin can prove what is real.**
+ProofProfile inscribed fingerprints of 9.9M songs from 2M artists onto Bitcoin.
+Public, tamper-proof existence is now the notary for the AI era.
+
+**2. The place to inscribe is already decided: Bitcoin.**
+Ordinals surpassed 127.7M inscriptions, 34.1GB of data, 4,465 BTC in fees.
+Even after the hype faded, the records remain. The world has chosen.
+
+**3. IP is shifting from Fair Use to Fair Pay.**
+Google started paying 400 publishers for AI training.
+In Shibuya, the "Mirror Gate" for automatic licensing and revenue sharing has begun.
+Next is the turn of individuals.
+
+> Google has the big gate. Shibuya is building the gate.
+> WRW gives that gate to individuals, for 0.1 yen.
 `witnessed by WRW - 1000 year seal`
 
 ---
